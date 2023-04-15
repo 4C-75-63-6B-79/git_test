@@ -1,4 +1,2 @@
 this hello world things are terrible.
 hello from termux
-hello again
-hello again
